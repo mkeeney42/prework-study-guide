@@ -11,3 +11,5 @@ if (topic === 'HTML') {
 } else {
   console.log('Please try again!');
 }
+const shapes = ["triangle", "square", "pentagon", "circle"];
+console.log(shapes[0]);
